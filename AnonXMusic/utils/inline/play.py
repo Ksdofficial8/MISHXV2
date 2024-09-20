@@ -64,7 +64,7 @@ def stream_markup_timer(_, chat_id, played, dur):
                 text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/phonk_updates"
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/+a3MMJtZDb0YzNzBlT"
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/+Oj6fDcw6jrQzZTRl"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -79,7 +79,7 @@ def stream_markup(_, chat_id):
                 text="𝖴𝗉𝖽𝖺𝗍𝖾𝗌 📢", url=f"https://t.me/phonk_updates"
             ),
             InlineKeyboardButton(
-                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/+a3MMJtZDb0YzNzBlT"
+                text="𝖲𝗎𝗉𝗉𝗈𝗋𝗍 💬", url=f"https://t.me/+Oj6fDcw6jrQzZTRl"
           ),
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
